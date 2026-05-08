@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.local
+*.log
+.DS_Store
+.vite/
+python_backend/__pycache__/
+python_backend/uploads/
+*.pyc
+*.pkl
+.pytest_cache/
